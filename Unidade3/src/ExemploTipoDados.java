@@ -31,8 +31,22 @@ public class ExemploTipoDados {
         String cidade = "Blumenau";
         System.out.println("O " + nome + " mora em " + cidade + " há muito tempo");
         System.out.printf("O %s mora em %s ha muito tempo%n", nome, cidade);
-        System.out.printf("O %s mora em %s ha muito tempo", nome, cidade);
+        System.out.printf("O %-30s mora em %s ha muito tempo%n", nome, cidade);
+        System.out.printf("O %30s mora em %s ha muito tempo%n", nome, cidade);
+        int inteiro = 1000;
+        System.out.printf("Número da loteria %d, valeu%n", inteiro);
+        System.out.printf("Número da loteria %07d, valeu%n", inteiro);
 
-    
+        double numero = 123456.789112;
+        System.out.printf("O numero é %f legal%n", numero);
+        System.out.printf("O numero é %.2f legal%n", numero);
+        System.out.printf("O numero é %015.2f legal%n", numero);
+
+        char caractere = 'a';
+        System.out.printf("um caractere %c esta ali.%n", caractere);
+        System.out.printf("um caractere %C esta ali.%n", caractere);
+
+        System.out.printf("um nome %s, um numero %d, um valor %.2f, uma cidade %s e um caractere %c. Tudo junto", nome, inteiro, numero, cidade, caractere);
+
     }
 }
