@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestaLoucura",
+            "request": "launch",
+            "mainClass": "TestaLoucura",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "ExemploMetodos",
+            "request": "launch",
+            "mainClass": "ExemploMetodos",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe02",
+            "request": "launch",
+            "mainClass": "Uni6Exe02",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe01",
+            "request": "launch",
+            "mainClass": "Uni6Exe01",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForDeFor",
+            "request": "launch",
+            "mainClass": "ExemploForDeFor",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForMedia",
+            "request": "launch",
+            "mainClass": "ExemploForMedia",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "ExemploVetores",
+            "request": "launch",
+            "mainClass": "ExemploVetores",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioExtra01",
+            "request": "launch",
+            "mainClass": "ExercicioExtra01",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "ForContinue",
+            "request": "launch",
+            "mainClass": "ForContinue",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "LeNomeDoWhile",
+            "request": "launch",
+            "mainClass": "LeNomeDoWhile",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "LeNomeWhile",
+            "request": "launch",
+            "mainClass": "LeNomeWhile",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Radiacao",
+            "request": "launch",
+            "mainClass": "Radiacao",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe01",
+            "request": "launch",
+            "mainClass": "Uni5Exe01",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe02",
+            "request": "launch",
+            "mainClass": "Uni5Exe02",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe03",
+            "request": "launch",
+            "mainClass": "Uni5Exe03",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe04",
+            "request": "launch",
+            "mainClass": "Uni5Exe04",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe05",
+            "request": "launch",
+            "mainClass": "Uni5Exe05",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe15",
+            "request": "launch",
+            "mainClass": "Uni5Exe15",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        }
+    ]
+}
