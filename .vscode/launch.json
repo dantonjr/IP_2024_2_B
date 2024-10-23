@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni6Exe02Objeto",
+            "request": "launch",
+            "mainClass": "Uni6Exe02Objeto",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
             "name": "Uni6Exe01MetodoObjeto",
             "request": "launch",
             "mainClass": "Uni6Exe01MetodoObjeto",
