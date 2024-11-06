@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni6Exe07",
+            "request": "launch",
+            "mainClass": "Uni6Exe07",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "ExemploOrdenacao",
+            "request": "launch",
+            "mainClass": "ExemploOrdenacao",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe04",
+            "request": "launch",
+            "mainClass": "Uni6Exe04",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe03",
+            "request": "launch",
+            "mainClass": "Uni6Exe03",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
             "name": "Uni6Exe02Objeto",
             "request": "launch",
             "mainClass": "Uni6Exe02Objeto",
