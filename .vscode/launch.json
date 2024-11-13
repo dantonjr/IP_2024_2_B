@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni6Exe10",
+            "request": "launch",
+            "mainClass": "Uni6Exe10",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe08",
+            "request": "launch",
+            "mainClass": "Uni6Exe08",
+            "projectName": "IP_2024_2_B_c89e0a5b"
+        },
+        {
+            "type": "java",
             "name": "NumerosRandomicos",
             "request": "launch",
             "mainClass": "NumerosRandomicos",
